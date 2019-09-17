@@ -1,0 +1,26 @@
+h2 {
+    background:whitesmoke; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#iderp{
+    margin-bottom:10px;
+    text-align: center;
+    color:#0a06f0;
+}
+
+span{
+    margin: 20px;
+}
+
+form{
+    border: lightslategray 2px solid; 
+    border-radius:10px;
+    text-align: center;
+    padding: 5px;
+}
+
+form > div{
+    display: inline-block;
+}
